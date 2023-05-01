@@ -64,6 +64,11 @@ For full documentation & more details, visit: [Docs](https://www.hippo4j.cn)
 - 动态化插件 - 内置多种线程池插件，支持用户自定义插件以及运行时扩展。
 - 多版本适配 - 经过实际测试，已支持客户端 SpringBoot 1.5.x => 2.7.5 版本（更高版本未测试）。
 
+### 架构设计
+
+---
+<img width="1307" alt="image" src="https://user-images.githubusercontent.com/106363931/233792824-f879500f-fea1-4872-be15-957236f6bf2b.png">
+
 ### 快速开始
 
 ---
